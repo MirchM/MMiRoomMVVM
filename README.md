@@ -1,2 +1,2 @@
 # MMiRoomMVVM
-Rooms implementation for Android using Kotlin and JetpackCompose
+Room implementation for Android using Kotlin and JetpackCompose
