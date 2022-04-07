@@ -5,9 +5,11 @@ Room (Android Library) Implementation using Kotlin and Jetpack Compose
 
 ## Features
 
+- Add/Update Object Fields
+- Delete
+- Navigational Search Query
 - Material Design
 - Simple Animations
-- Navigational Search Query
 - Scalable Layout(Tested on Samsung galaxy s21(Phone) and on Xiaomi MiPad 4(Tablet))
 
 
